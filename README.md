@@ -54,4 +54,6 @@ In case of emergency, just by shaking the phone, you current location, battery l
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/20.jpeg" width="300">
 
 ## Video
-https://github.com/narender-rk10/Shake-N-Save/blob/master/screenshots/video11.mp4
+![Alt Text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/video-gif.gif)
+
+
