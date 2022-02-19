@@ -27,6 +27,11 @@ In case of emergency, just by shaking the phone, you current location, battery l
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg) -->
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg" width="300">
 
+## Dashboard
+> Dashboard for user
+<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/21.jpeg) -->
+<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/21.jpeg" width="300">
+
 ## Add Emergency Contact Numbers
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/19.jpeg) -->
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/19.jpeg" width="300">
