@@ -6,11 +6,11 @@ Android Application developed for the purpose of Women and Public Safety. The ap
 - Location is sent in the SOS message
 
 
-## Registration
-## Add Emergency Contact Numbers
+### Registration
+### Add Emergency Contact Numbers
 
-## Start Service
+### Start Service
 
-## Shake your device to send SOS SMS
+### Shake your device to send SOS SMS
 
-## 
+###
