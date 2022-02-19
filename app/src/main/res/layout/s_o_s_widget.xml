@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin"
+    android:theme="@style/ThemeOverlay.SafetyAlert.AppWidgetContainer">
+
+    <ImageView
+        android:id="@+id/sos_widget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/sos"
+        android:onClick="startServiceV"
+        />
+</RelativeLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor1"
+    tools:context=".LoginScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/login" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/mazzardhmedium"
+            android:gravity="center"
+            android:text="You'll recieve four digit code\nto verify next."
+            android:textColor="@color/black"
+            android:textSize="19sp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:textColorHint="@color/darkBlue"
+            app:counterOverflowTextColor="@color/darkBlue"
+            android:outlineAmbientShadowColor="@color/darkBlue"
+            app:hintTextColor="@color/darkBlue"
+            app:boxStrokeColor="@color/darkBlue"
+            app:counterEnabled="true"
+            app:counterMaxLength="10"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:textColor="@color/darkBlue"
+            android:textColorHighlight="@color/darkBlue"
+            android:textColorLink="@color/darkBlue"
+            app:layout_constraintTop_toBottomOf="@+id/textView2"
+            app:prefixText="+91">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/loginphonenumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/darkBlue"
+                android:fontFamily="@font/mazzardhmedium"
+                android:hint="Phone number"
+                android:inputType="number"
+                android:shadowColor="@color/darkBlue"
+                android:shadowRadius="15"
+                android:textColor="@color/darkBlue"
+                android:textColorHighlight="@color/darkBlue"
+                android:textColorHint="@color/darkBlue"
+                android:textColorLink="@color/darkBlue"
+                android:textCursorDrawable="@color/darkBlue" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/sendOtp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="28dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_corners"
+            android:backgroundTint="@color/darkBlue"
+            android:fontFamily="@font/mazzardhmedium"
+            android:text="Send OTP"
+            android:textColor="@color/white"
+            android:textColorHighlight="@color/darkBlue"
+            android:textColorLink="@color/darkBlue"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom|center"
+            android:layout_marginBottom="50dp"
+            android:id="@+id/gotoRegister"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mazzardhmedium"
+                android:text="First time to this app :"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mazzardhbold"
+                android:text=" Register"
+                android:textColor="@color/darkBlue"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
