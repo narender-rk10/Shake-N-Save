@@ -15,4 +15,3 @@ Android Application developed for the purpose of Women and Public Safety. The ap
 
 ## Shake your device to send SOS SMS
 
-## 
