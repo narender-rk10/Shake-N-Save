@@ -28,6 +28,8 @@ In case of emergency, just by shaking the phone, you current location, battery l
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg" width="300">
 
 ## Add Emergency Contact Numbers
+<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/19.jpeg) -->
+<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/19.jpeg" width="300">
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.04%20PM.jpeg" width="300">
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.04%20PM.jpeg) -->
 
@@ -40,3 +42,7 @@ In case of emergency, just by shaking the phone, you current location, battery l
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.05%20PM.jpeg" width="300">
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.05%20PM.jpeg) -->
 
+## Widget
+> Shorcut for emergency SOS Button
+<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/20.jpeg) -->
+<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/20.jpeg" width="300">
