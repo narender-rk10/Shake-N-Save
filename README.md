@@ -19,13 +19,15 @@ In case of emergency, just by shaking the phone, you current location, battery l
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/14.jpeg" width="300">
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/15.jpeg) -->
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/15.jpeg" width="300">
+<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg) -->
+<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg" width="300">
 
 ## Login & Registration
 > Register your phone number to start using the app
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/16.jpeg) -->
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/16.jpeg" width="300">
-<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg) -->
-<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/17.jpeg" width="300">
+<!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/18.jpeg) -->
+<img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/18.jpeg" width="300">
 
 ## Dashboard
 > Dashboard for user
