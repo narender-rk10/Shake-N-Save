@@ -39,6 +39,7 @@ In case of emergency, just by shaking the phone, you current location, battery l
 
 
 ## Shake your device to send SOS SMS
+> Send the location and Mobile Battery Level via SMS to the emergency contacts
 <img src="https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.05%20PM.jpeg" width="300">
 <!-- ![Alt text](https://github.com/narender-rk10/Shake-N-Safe/blob/master/screenshots/WhatsApp%20Image%202022-02-19%20at%202.50.05%20PM.jpeg) -->
 
